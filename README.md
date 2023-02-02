@@ -1,3 +1,3 @@
-# Phrase Finder
+# Podcast Finder
 
-Flask / React Application to locate phrases from podcasts
+Flask / React Application to locate podcasts from those snippets you remember.
