@@ -14,3 +14,7 @@
 # V2 Requirements
 
 - Go through AI to get transcript if YouTube account doesn't allow profanity captions.
+
+# V3 Requirements 
+
+- Use webhook to get new uploads from podcast youtube channels automatically
