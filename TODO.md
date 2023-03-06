@@ -1,6 +1,5 @@
 # Todo
 
-- Escape - for the youtube transcript api.
 - search for phrase.
 - basic search frontend and search results.
 
